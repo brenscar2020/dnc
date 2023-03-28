@@ -1,2 +1,9 @@
-<?php echo shell_exec("whoami");?>
-<?=phpinfo();?>
+<?php 
+
+echo "<br>";
+echo "blah blah blah";
+echo "<br>";
+echo "whoami: ";
+echo shell_exec("whoami");
+
+?>
