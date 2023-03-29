@@ -1,9 +1,15 @@
-<?php 
+<script>alert(document.cookie)</script>
 
-echo "<br>";
-echo "blah blah blah";
-echo "<br>";
-echo "whoami: ";
-echo shell_exec("whoami");
 
-?>
+
+
+
+//<?php 
+
+//echo "<br>";
+//echo "blah blah blah";
+//echo "<br>";
+//echo "whoami: ";
+//echo shell_exec("whoami");
+
+//?>
