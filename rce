@@ -1,1 +1,1 @@
-</pre><script>alert(document.domain)</script>
+</pre><script type="application/javascript">alert(document.domain)</script>
